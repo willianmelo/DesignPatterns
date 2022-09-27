@@ -1,2 +1,2 @@
 # DesignPatterns
-Repository to store and share my studies on Design Patterns in C#
+Repository to store and share my studies about Design Patterns in C#
