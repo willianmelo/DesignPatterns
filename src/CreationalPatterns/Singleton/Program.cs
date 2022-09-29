@@ -12,3 +12,7 @@ var message = logger2.GetLog();
 Console.WriteLine(message);
 
 Console.ReadLine();
+
+
+
+
