@@ -5,7 +5,7 @@ namespace Strategy\src\Models;
 use Strategy\src\Interfaces\IHealthPlan;  
 
 
-class Sulamerica extends IHealthPlan
+class Sulamerica implements IHealthPlan
 {
     function Calculate() : float
     {

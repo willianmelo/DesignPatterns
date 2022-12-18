@@ -5,7 +5,7 @@ namespace Strategy\src\Models;
 use Strategy\src\Interfaces\IHealthPlan;  
 
 
-class Amil extends IHealthPlan
+class Amil implements IHealthPlan
 {
     function Calculate() : float
     {
